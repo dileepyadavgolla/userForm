@@ -1,0 +1,18 @@
+.image {
+  width: 300px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.input-label {
+  margin-right: 8px;
+}
+.error {
+  color: red;
+}
+.true {
+  color: black;
+}
